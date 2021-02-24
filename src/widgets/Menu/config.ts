@@ -168,7 +168,7 @@ export const socials = [
       },
       {
         label: "Whale Alert",
-        href: "https://t.me/PancakeSwapWhales",
+        href: "https://t.me/PancakeSwapWhales3",
       },
     ],
   },
